@@ -28,7 +28,7 @@ I add technical guide and notes of the applications/ framework / code blocks / t
 - Streaming data analytics pipeline with Apache Kafka, Apache Spark
 - Typical ETL (Extract Transform Load) workflows
 
-## Open OSS contibutions:
+## Open Source contibutions:
 - [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws/pulls?q=is%3Apr+author%3Asukumaar+is%3Aclosed+is%3Amerged)
 ___
 ## My blogs on other platforms

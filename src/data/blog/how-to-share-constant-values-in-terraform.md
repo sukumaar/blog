@@ -3,7 +3,7 @@ title: "How to share constant values in Terraform?"
 description: "This tutorial will help you to solve the problem where you want to share common values among TF files or across modules."
 author: "Sukumaar"
 pubDatetime: 2024-11-29T00:00:00Z
-image: "../../assets/images/how-to-share-constant-values-in-terraform.png"
+ogImage: "../../assets/images/how-to-share-constant-values-in-terraform.png"
 tags: ["tutorial","bigdata-cloud"]
 draft: false
 featured: true

@@ -3,7 +3,7 @@ title: "Dataform: The ELT Game Changer for GCP"
 description: "The Perfect ELT Companion for BigQuery & How It Stacks Up Against DBT"
 pubDatetime: 2025-03-26T00:00:00Z
 author: "Sukumaar"
-image: ../../assets/images/dataform-the-elt-game-changer-for-02.png
+ogImage: ../../assets/images/dataform-the-elt-game-changer-for-02.png
 tags: ["tutorial","bigdata-cloud"]
 draft: false
 featured: false

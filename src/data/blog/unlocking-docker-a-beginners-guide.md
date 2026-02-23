@@ -3,7 +3,7 @@ title: "Unlocking Docker: A Beginner's Guide to Ubuntu and Node.js installation"
 description: "In this tutorial, let's create a simple Docker container of Ubuntu and Node.js using a Dockerfile. This base Dockerfile will serve as a starting point for building custom Docker images. By leveraging this Dockerfile, we can automate the process of creating a standardized Ubuntu environment for our applications."
 author: "Sukumaar"
 pubDatetime: 2024-12-03T00:00:00Z
-image: "../../assets/images/unlocking-docker-a-beginners-guide-01.jpg"
+ogImage: "../../assets/images/unlocking-docker-a-beginners-guide-01.jpg"
 tags: ["tutorial","docker","containers","nodejs"]
 draft: false
 featured: false

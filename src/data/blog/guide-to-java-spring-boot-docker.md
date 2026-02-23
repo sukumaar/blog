@@ -3,7 +3,7 @@ title: "Guide to : Java Spring Boot Docker Container Image"
 description: "In this tutorial, let's create a simple Docker container of a spring boot REST java application using a Dockerfile. The process mentioned in the article will also help to create reusable and redistributable code image."
 author: "Sukumaar"
 pubDatetime: 2024-12-08T00:00:00Z
-image: "../../assets/images/guide-to-java-spring-boot-docker-01.png"
+ogImage: "../../assets/images/guide-to-java-spring-boot-docker-01.png"
 tags: ["tutorial","bigdata-cloud"]
 draft: false
 featured: false

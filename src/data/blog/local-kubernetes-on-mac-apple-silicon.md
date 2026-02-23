@@ -3,7 +3,7 @@ title: "Local Kubernetes on Mac Apple Silicon without Docker"
 description: "Install and use local Kubernetes on Mac Apple Silicon with Parallels Desktop for Mac"
 author: "Sukumaar"
 pubDatetime: 2024-04-08T00:00:00Z
-image: "../../assets/images/local-kubernetes-on-mac-apple-silicon-01.jpg"
+ogImage: "../../assets/images/local-kubernetes-on-mac-apple-silicon-01.jpg"
 tags: ["tutorial","containers"]
 draft: false
 featured: false

@@ -3,7 +3,7 @@ title: "What is '_spark_metadata' Directory in Spark Structured Streaming ?"
 description: "Spark Structured Streaming is a real-time data processing framework in Apache Spark. It enables continuous, scalable, and fault-tolerant data ingestion, transformation, and analysis from various sources, like Kafka or files."
 author: "Sukumaar"
 pubDatetime: 2024-12-04T00:00:00Z
-image: "../../assets/images/what-is-spark-metadata-directory-01.jpg"
+ogImage: "../../assets/images/what-is-spark-metadata-directory-01.jpg"
 tags: ["tutorial","bigdata-cloud","scala","apachespark"]
 draft: false
 featured: false

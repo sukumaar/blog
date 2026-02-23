@@ -3,7 +3,7 @@ title: "Apache Spark Unit Testing Strategies"
 description: "#scala #programming #apachespark #bigdata"
 pubDatetime: 2024-12-05T00:00:00Z
 author: "Sukumaar"
-image: "../../assets/images/apache-spark-unit-testing-strategies-01.jpg"
+ogImage: "../../assets/images/apache-spark-unit-testing-strategies-01.jpg"
 tags: ["tutorial","bigdata-cloud"]
 draft: false
 featured: false

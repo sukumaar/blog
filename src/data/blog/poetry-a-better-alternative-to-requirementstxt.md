@@ -3,7 +3,7 @@ title: "Poetry : A Better Alternative to requirements.txt. The Maven for Python 
 description: "Lets talk something about poetry."
 author: "Sukumaar"
 pubDatetime: 2024-12-28T00:00:00Z
-image: "../../assets/images/poetry-a-better-alternative-to-requirementstxt-01.jpg"
+ogImage: "../../assets/images/poetry-a-better-alternative-to-requirementstxt-01.jpg"
 tags: ["tutorial","bigdata-cloud"]
 draft: false
 featured: false

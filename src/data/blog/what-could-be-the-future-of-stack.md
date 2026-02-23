@@ -3,7 +3,7 @@ title: "What could be the future of Stack Overflow community after OpenAI partne
 description: "Some news about s/w developers' beloved stackoverflow community."
 author: "Sukumaar"
 pubDatetime: 2024-05-18T00:00:00Z
-image: "../../assets/images/what-could-be-the-future-of-stack-01.jpg"
+ogImage: "../../assets/images/what-could-be-the-future-of-stack-01.jpg"
 tags: ["technews","analysis"]
 draft: false
 featured: false
