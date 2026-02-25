@@ -73,10 +73,7 @@ v1
 {"path":"hdfs://tmp/landing/streaming_store/part-00000-34bdc752-70a2-310f-92dd-7ca9c000c34b-c000.snappy.parquet","size":2287,"isDir":false,"modificationTime":1616075186000,"blockReplication":1,"blockSize":33554432,"action":"add"}
 ```
 ### What will happen if you delete _spark_metadata directory?
-- You will see exception
-- ```shell
-java.lang.IllegalStateException: /tmp/landing/streaming_store/_spark_metadata/0 doesn't exist when compacting batch <batchNumber>
-```
+- You will see exception ` java.lang.IllegalStateException: /tmp/landing/streaming_store/_spark_metadata/0 doesn't exist when compacting batch <batchNumber> `
 - Data loss will be unrecoverable.
 
 **PS: 🚨 _spark_metadata should not be deleted at all. 🚨**
